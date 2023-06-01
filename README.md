@@ -1,6 +1,6 @@
 # **Modelos Data Science**
 
-En este repositorio se encuentran los modelos de trabajos realizados para la certificación del curso de ***Data Science*** impartido por parte de ***Aspasia/Awakelab***.
+En este repositorio se encuentran los modelos de trabajos realizados para la certificación del curso de ***Data Science*** impartido por parte de ***Aspasia/Awakelab/Adalid***.
 
 **Librerías utlizadas...**
 
@@ -51,3 +51,7 @@ En este repositorio se encuentran los modelos de trabajos realizados para la cer
     7. Ajuste de Parametros
     8. Predicciones 
     9. Conclusión/Interpretacion
+
+  ___Si existe algún error/modificaciún que se podria llegar a dar en los modelos, agradezco de antemano cualquier comentario para mejorar o arreglar los fallos.___
+  ___Ademas, en este mismo repositorio ire subiendo los futuros modelos que podria desarrollar.___ 😊
+    
